@@ -1,4 +1,4 @@
-# Phone Number Generator
+# Phone Number Generator """IN CONTINUOS DEVELOPMENT"""
 
 This Python script generates random phone numbers for Kenyan and US formats, validates their structure, and creates permutations of a given phone number. It's a versatile tool for testing, simulating, or generating sample phone numbers with various customization options.
 
